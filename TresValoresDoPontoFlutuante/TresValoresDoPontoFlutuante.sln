@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TresValoresDoPontoFlutuante", "TresValoresDoPontoFlutuante\TresValoresDoPontoFlutuante.csproj", "{4E271C05-CA2F-405F-9278-B0DC9A7676BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E271C05-CA2F-405F-9278-B0DC9A7676BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E271C05-CA2F-405F-9278-B0DC9A7676BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E271C05-CA2F-405F-9278-B0DC9A7676BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E271C05-CA2F-405F-9278-B0DC9A7676BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B69E48-41E7-41AB-AC75-5DCC7558E764}
+	EndGlobalSection
+EndGlobal
